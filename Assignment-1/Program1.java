@@ -1,3 +1,5 @@
+//Implement Array and String operations (Reverse, Sort,Search, Average, Maximum) using class and objects
+
 import java.util.Scanner;
 
 class Operations {
